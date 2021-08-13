@@ -1,2 +1,3 @@
-# pixelcord-mobile
-Pixelcord for mobile
+# Pixelcord for Mobile
+**Requires Aliucord**
+
